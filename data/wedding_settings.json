@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5436dd6c-c159-48b4-b654-f7a4e84219d0",
+    "couple_name_1": "Hashem",
+    "couple_name_2": "Ola",
+    "wedding_date": "2026-07-27",
+    "hero_subtitle": "We're getting married",
+    "hero_image_url": null,
+    "ceremony_time": "10:00",
+    "ceremony_location": "Iglesia de San Pedro",
+    "ceremony_address": null,
+    "ceremony_maps_url": "https://maps.app.goo.gl/9c3ktBd37yiLMtjk6?g_st=ic",
+    "ceremony_notes": null,
+    "banquet_time": "10:00",
+    "banquet_location": "Gracia Hall",
+    "banquet_address": null,
+    "banquet_maps_url": "https://maps.app.goo.gl/9c3ktBd37yiLMtjk6?g_st=ic",
+    "banquet_notes": null,
+    "our_story": "We met on a summer afternoon and since then we have never stopped dreaming together. Every day by your side is an adventure I want to live forever.",
+    "dress_code": "Formal elegant",
+    "dress_code_colors": null,
+    "gifts_enabled": true,
+    "gifts_text": "Your presence is our greatest gift. If you wish to give us something, we appreciate your contribution towards our honeymoon.",
+    "gifts_bank_details": null,
+    "photo_upload_enabled": false,
+    "language": "en",
+    "created_at": "2025-12-27T23:54:32.816305+00:00",
+    "updated_at": "2026-05-15T17:30:00.000000+00:00"
+  }
+]

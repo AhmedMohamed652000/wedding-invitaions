@@ -1,0 +1,32 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What time does the celebration start?",
+    "answer": "The celebration begins at 10:00 and runs until 12:00. Please arrive a few minutes early.",
+    "sort_order": 1
+  },
+  {
+    "id": "faq-002",
+    "question": "What is the dress code?",
+    "answer": "The dress code is formal elegant. We kindly ask guests to avoid wearing white or ivory.",
+    "sort_order": 2
+  },
+  {
+    "id": "faq-003",
+    "question": "Is parking available at the venue?",
+    "answer": "Yes, free parking is available at the venue for all guests.",
+    "sort_order": 3
+  },
+  {
+    "id": "faq-004",
+    "question": "Can I bring a plus one?",
+    "answer": "Please check your invitation — it will indicate whether a plus one is included. You can specify companions in your RSVP.",
+    "sort_order": 4
+  },
+  {
+    "id": "faq-005",
+    "question": "What if I have dietary restrictions?",
+    "answer": "Please indicate any allergies or dietary requirements when filling in your RSVP form. We will do our best to accommodate everyone.",
+    "sort_order": 5
+  }
+]

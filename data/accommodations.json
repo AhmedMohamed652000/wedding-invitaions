@@ -1,0 +1,14 @@
+[
+  {
+    "id": "acc-001",
+    "name": "Gracia Hall",
+    "description": "The main wedding venue, available for overnight stays.",
+    "address": "Gracia Hall, Mallorca",
+    "maps_url": "https://maps.app.goo.gl/9c3ktBd37yiLMtjk6?g_st=ic",
+    "website_url": null,
+    "price_range": null,
+    "distance_from_venue": "0 km",
+    "image_url": null,
+    "sort_order": 1
+  }
+]
